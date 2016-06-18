@@ -1,0 +1,124 @@
+body {
+	background-color: white;
+	}
+nav li{
+	font-family: "Raleway", sans-serif;
+	font-size: 20px;
+	color: grey;
+	display: inline-block;
+	list-style: none;
+	height: 20px;
+}
+section.section1{
+	background-image: url("../images/indexbanner-bg3.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 400px;
+}
+.clase1{
+	font-family: "Raleway", sans-serif;
+	font-size: 20px;
+	color: white;
+	display: block;
+	height: 400;
+	width: 300;
+}
+.clase1 p{
+	font-size: 10px
+}
+}
+.search {
+	width: 100%;
+	box-shadow: 0 2px 5px;
+	margin: -50px 0 0;
+	position: relative;
+}
+.lista1{
+	font-family: "Raleway", sans-serif;
+}
+.lista1 li{
+	display: inline-block;
+}
+.lista1 img{
+height: 60px;
+width: 60px;
+}
+.lista1 article{
+height: 200;
+width:200;
+}
+.lista2{
+	font-family: "Raleway", sans-serif;
+}
+.interior-price{
+	background-image: url("../images/pricing-bg.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	height: 300px;
+}
+.interior-price h2{
+	font-family: "Raleway", sans-serif;
+	font-size: 20px
+}
+.interior-price h4{
+	font-family: "Raleway", sans-serif;
+	font-size: 10px
+}
+.anteultima{
+	height: 400px;
+	background-color: white;
+}
+.cuadro1{
+	height: 40px;
+	width: 100px;
+	font-family: "Raleway", sans-serif;
+	font-size: 20px;
+	padding: 20px;
+	display: inline-block;
+}
+.cuadro2{
+	height: 40px;
+	width: 100px;
+	border-color: black;
+	font-family: "Raleway", sans-serif;
+	font-size: 20px;
+	display: inline-block;
+	padding: 40px;
+}
+.cuadro3{
+	height: 40px;
+	width: 100px;
+	border-color: black;
+	font-family: "Raleway", sans-serif;
+	font-size: 20px;
+	display: inline-block;
+	padding: 40px;
+}
+.cuadro4{
+	height: 40px;
+	width: 100px;
+	border-color: black;
+	font-family: "Raleway", sans-serif;
+	font-size: 20px;
+	display: inline-block;
+	padding: 40px;
+}
+.hosting{
+	height: 120px;
+	background-color: #2F4F4F;
+	font-family: "Raleway", sans-serif;
+	font-size: 20px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+.footer{
+	height: 60px;
+	background-color:   #02153a;
+	font-family: "Raleway", sans-serif;
+	font-size: 20px;
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
